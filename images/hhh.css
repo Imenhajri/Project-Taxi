@@ -1,0 +1,142 @@
+header {
+    width: 100%;
+    height: 25px;
+    margin: 0;
+    top: 0;
+    left: 0;
+    background-color: black;
+    padding-top: 5px;
+    padding-bottom: 11px;
+    position: fixed;
+}
+.logo {
+    float: left;
+    padding-left: 150px;
+}
+.barre {
+    float: left;
+    width: auto;
+    padding-top: 10px;
+    padding-left: 150px;
+}
+.barre ul {
+    margin: 0px;
+    padding :0px;
+}
+ul li {
+    padding-right: 100px;
+    color:white;
+    list-style: none;
+    display: inline;
+    font-family: Arial, Helvetica, sans-serif;
+}
+body {
+    background-color: white;
+    margin-right: 0;
+    margin-left: 0;
+}
+a {
+    text-decoration: none ;
+    color: white;
+}
+.barre li a {
+    color: #ffffff;
+}
+
+
+.contact {
+    width: 50%;
+    float: left;
+    background-color: #f8ca11;
+    height: auto;
+    padding: 10px;
+    margin-left: 250px;
+}
+h1 {
+    font-size: 24px
+    letter-spacing: 0;
+     font-weight: normal;
+     position: relative;
+     padding: 0 0 10px 0;
+     font-weight: normal;
+     line-height: normal;
+     color: #111111;
+     margin: 0
+}
+.book{
+    width: 100%;
+     float: left;
+     font-size: 40px;
+     color: #fbfaf6;
+     text-align: center;
+}
+.call{
+    width: 100%;
+     float: left;
+     font-size: 40px;
+     color: #1a1a1a;
+     text-align: center;
+}
+.image {
+margin-left: 150px;
+padding-top: 240px;
+display: block;
+}
+
+.destination h1 {
+    width: auto;
+     float: right;
+     font-size: 30px;
+     color: #fbfaf6;
+     text-align: center;
+     padding-right: 120px;
+     margin: 20px;
+}
+.box {
+    background-color: #fbfaf6;
+    width: 730px;
+    height: 330px;
+    float: right;
+    margin-right: 40px;
+}
+.text {
+    font-size: 16px;
+    width: 100%;
+    color: #000;
+    padding-top: 15PX;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.class1 {
+    background: rgb(227, 226, 226);
+    border-color: white;
+    color: #000;
+    width: 680px;
+    height: 30px;
+    font-size: 20px;
+    padding: 5px;
+    margin: 15px;
+    margin-right: 50px;
+    display: block;
+    border-radius: 5px;
+}
+#btn {
+    width: 150px;
+    background-color:rgb(29, 28, 28);
+    color: #fefefe;
+    text-align: center;
+    font-size: 16px;
+    border-radius: 5px;
+    height: 40px;
+    float: right;
+    margin-right: 20px;
+}
+ .our_taxi {
+    width: 100%;
+    float: left;
+    text-align: center;
+    font-size: 50px;
+    color: #fefefe;
+    font-weight: bold;
+ }
+ 
